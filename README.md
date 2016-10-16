@@ -1,10 +1,10 @@
 # Pomf screenshot script
 Tiny drag-to-select screenshot uploader with as few dependencies as possible.
 
-Displays a notification with xmessage when finished.
+Displays a notification and copies the URL to clipboard when finished.
 
 ##Usage
-* Edit the upload mirrors if desired
+* Edit the upload mirrors in the script if desired
 * Bind it to a hotkey!
 
 ##Dependencies
