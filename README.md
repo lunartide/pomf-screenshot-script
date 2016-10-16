@@ -1,5 +1,5 @@
 # Pomf screenshot script
-Tiny drag-to-select screenshot uploader with as few dependencies as possible.
+Tiny drag-to-select screenshot upload script with as few dependencies as possible.
 
 Displays a notification and copies the URL to clipboard when finished.
 
